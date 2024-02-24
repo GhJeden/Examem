@@ -16,7 +16,7 @@ for j in range(1, 10):
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "lxml")
             allProduct = soup.find("div", class_="row col-lg-4 col-md-4 col-sm-6")
-            products = allProduct.find_all("div", class_="col-lg-4 col-md-4 col-sm-6 portfolio-item ")
+            products = allProduct.find_all("div", class_="col-lg-4 col-md-4 col-sm-6 portfolio-item")
 
             for i in range(len(products)):
                 try:
