@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cad67d-21d3-4c5c-966c-39fc39c457f3" name="Changes" comment="1.0" />
+    <list default="true" id="46cad67d-21d3-4c5c-966c-39fc39c457f3" name="Changes" comment="3.0">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nameandprice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nameandprice.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GhJeden"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1f89d193-db1d-48a5-90e6-9956d931b73b" />
+        <option name="url" value="https://github.com/GhJeden/Examem.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -95,11 +112,37 @@
       <option name="project" value="LOCAL" />
       <updated>1708788330698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2.0">
+      <option name="closed" value="true" />
+      <created>1708788669482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708788669482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2.0">
+      <option name="closed" value="true" />
+      <created>1708788778775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708788778775</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3.0">
+      <option name="closed" value="true" />
+      <created>1708790139350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708790139350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+    <MESSAGE value="2.0" />
+    <MESSAGE value="3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.0" />
   </component>
 </project>
